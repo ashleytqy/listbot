@@ -1,0 +1,13 @@
+{
+  "name": "listbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "ashley teoh",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^3.5.3",
+    "mongodb": "^2.2.11",
+    "mongoose": "^4.6.5"
+  }
+}
